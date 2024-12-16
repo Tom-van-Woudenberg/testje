@@ -8,3 +8,5 @@ This book can be used as a template for other books. It includes a starter packa
 Aanpassing 2
 
 Aanpassing 2 is niet goed
+
+Aanpassing 3
